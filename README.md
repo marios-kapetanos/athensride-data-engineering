@@ -1,2 +1,2 @@
-# athensride-data-engineering
-Streaming data pipeline project using Kafka, Spark Structured Streaming, PostgreSQL and Docker.
+# AthensRide Data Engineering Pipeline
+Ride Data → Kafka → Spark Structured Streaming → Real-time Aggregations
